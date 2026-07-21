@@ -55,4 +55,4 @@ Blinkit collects large amounts of sales data, making it difficult to monitor per
 
 Screenshot/Demo
 
-https://github.com/9asumanjali-prog/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20dashboard.png
+https://github.com/9asumanjali-prog/Blinkit-Sales-Analysis-Dashboard
